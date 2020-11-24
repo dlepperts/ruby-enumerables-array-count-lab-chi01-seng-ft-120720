@@ -10,7 +10,6 @@ def count_strings(array)
   print total
 end
 
-array = [1,2,3,4]
 count_strings([1,2,3,4])
 
 def count_empty_strings(array)
