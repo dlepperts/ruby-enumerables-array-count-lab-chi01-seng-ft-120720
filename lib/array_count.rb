@@ -7,7 +7,7 @@ def count_strings(array)
     end
     index += 1
   end
-  print(total)
+  print total
 end
 
 array = [1,2,3,4]
