@@ -2,7 +2,7 @@ def count_strings(array)
   total = 0
   index = 0
   while index < array.length do
-    if array[index].even?
+    if array[index].String?
       total += 1
     end
     index += 1
